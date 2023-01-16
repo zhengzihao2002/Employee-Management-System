@@ -1,3 +1,0 @@
-Common Bugs:
-1. Extra Spaces / Lines in file
-2. Memory Allocation/Deallocation Error (Rare)
